@@ -1,8 +1,8 @@
-# Mars Orbit Assignment
+# Mars Orbit Assignment Solutions (Original Approach)
 
 ## Introduction
 
-This directory contains the solutions to the Mars Orbit module of a data-anlytics class taught by Professor Rajesh Sundaresan and Professor Ramesh Hariharan at the Indian Institute of Science, Bangalore, India.
+This directory contains the solutions to the programming assignment for the Mars Orbit module of a data-anlaytics class taught by Professor Rajesh Sundaresan and Professor Ramesh Hariharan at the Indian Institute of Science, Bangalore, India.
 
 The assignment specification is attached in Mars Orbit Assignment.pdf
 
