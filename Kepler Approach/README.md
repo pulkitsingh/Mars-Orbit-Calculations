@@ -10,7 +10,7 @@ The approach in this section relies on the following model:
 - There is a point inside the orbit where Mars has uniform angular velocity, and this point is called the average sun.
 - The line joining the sun and the average sun is called the line of apsides.
 
-## Outline of Materials
+### Outline of Materials
 
 - orbitkepler.py : This module fits an orbit for Mars by finding the optimal relative position of the average sun and the angle of the line of apsides. This is done using opposition data. However, these findings are in arbitrary units, and must be scaled appropriately to find the best-estimated model. 
 
