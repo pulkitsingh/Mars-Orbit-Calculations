@@ -1,4 +1,4 @@
-""" This model integrates the results of the orbitkepler and tri modules, by
+""" This module integrates the results of the orbitkepler and tri modules, by
 scaling the model found in orbit-kepler by the results of tri. Thus, it finds
 the averagSun - Sun - Mars model in relevant units (AU).
 
